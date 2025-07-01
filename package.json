@@ -1,0 +1,9 @@
+{
+  "name": "us-state-flags-svg",
+  "version": "1.0.0",
+  "description": "SVGs of US State Flags",
+  "main": "index.js",
+  "files": ["flags/"],
+  "keywords": ["svg", "flags", "usa"],
+  "license": "MIT"
+}
